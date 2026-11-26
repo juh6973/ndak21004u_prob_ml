@@ -225,3 +225,5 @@ __marimo__/
 # Media
 figures/
 *.png
+# Datasets (e.g. MNIST)
+data/
