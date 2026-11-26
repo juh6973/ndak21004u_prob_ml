@@ -227,3 +227,7 @@ figures/
 *.png
 # Datasets (e.g. MNIST)
 data/
+
+# Report files
+*.pdf
+*.html
